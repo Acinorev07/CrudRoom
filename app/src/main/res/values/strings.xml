@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CrudRoom</string>
+    <string name="users">users</string>
+    <string name="add_user">add_user\n</string>
+    <string name="name">name\n</string>
+    <string name="last_name">last_name</string>
+    <string name="age">age</string>
+</resources>
